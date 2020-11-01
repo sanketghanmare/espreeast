@@ -1,0 +1,23 @@
+{
+  "name": "acron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "acorn": "^8.0.4",
+    "ast-types": "^0.14.2"
+  },
+  "dependencies": {
+    "@types/acorn": "^4.0.5",
+    "ast-traverse": "^0.1.1",
+    "escodegen": "^2.0.0",
+    "espree": "^7.3.0",
+    "esrecurse": "^4.3.0",
+    "express": "^4.17.1"
+  }
+}
